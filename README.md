@@ -2,9 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Hanzhao+Li;It's+good+to+see+you)](https://git.io/typing-svg)
 
 
-### 🔥 Tech Stack
-![Tech stack](https://skillicons.dev/iconsi=py,pytorch,cpp,docker,git&theme=light)
-
+### Tech Stack 🌱
+![Tech stack](https://skillicons.dev/icons?i=py,pytorch,cpp,docker,git&theme=light)
 
 ### Contributions 🔭
 <picture>
